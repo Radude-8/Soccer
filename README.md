@@ -1,11 +1,11 @@
 # Football
-<body style="background-color:powderblue;>
+<body style="background-color:powderblue>
 
-<div>
+
 <a href="#About">About Me</a> <br>
 <a href="#History">History of Football</a><br>
 <a href="#Players">Players</a>
- </div>
+ 
 <h1>The greatest sport of all time.</h1>
   <p>(Also known as soccer) The best sport to ever exist</p>
  
@@ -31,3 +31,5 @@
   Phone #: 888-888-8888 <br><br>
   Email: Rihan_patel@hotmail.com</p>
 </section>
+
+</body>
