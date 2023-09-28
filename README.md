@@ -1,5 +1,4 @@
-
-th# Football
+# Football
 <body>
 <a href="About the creator">#About</a>
 <h1>The greatest sport of all time.</h1>
