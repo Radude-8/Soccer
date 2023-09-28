@@ -1,6 +1,6 @@
 # Football
 <body>
-<a href="about">About the creator</a>
+<a href="About the creator">About</a>
 <h1>The greatest sport of all time.</h1>
   <p>(Also known as soccer) The best sport to ever exist</p>
 
