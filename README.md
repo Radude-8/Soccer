@@ -21,5 +21,5 @@
 <p>Name: Rihan Patel <br><br>
   Phone #: 888-888-8888 <br><br>
   Email: Rihan_patel@hotmail.com</p>
-
+</section>
 </body>
