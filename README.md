@@ -9,9 +9,12 @@
 <img src="https://github.com/Radude-8/Soccer/assets/145703339/94c1fa8b-fa8c-46ad-8867-b8cb4e51fb02"/>
 
 
+
 <h2>Players</h2>
 <p>There are many great players in this sport but the most well known, and the best are Cristiano Ronaldo and Lionel Messi. Cristiano Ronaldo has 853 career goals and 268 assists. He has won 5 Ballon d'ors and in all he has 34 senior trophies in his career. He also won the only two international trophies his national team, Portugal, have. <br><br> Lionel Messi has 819 career goals and 361 career assists. He has 7 Ballon d'ors and many other trophies, he just won the World Cup with Argentina.</p>
-<img src="https://lithub.com/how-cristiano-ronaldo-and-lionel-messi-became-superstars-on-and-off-the-field/"/>
+
+<img src="https://s26162.pcdn.co/wp-content/uploads/2022/10/messi-CR.jpg"/>
+
 
 
 
