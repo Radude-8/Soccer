@@ -1,6 +1,8 @@
 # Football
-<body style="background-color:powderblue;">
+<body>
 <a href="#About">About Me</a>
+<a href="#History">History of Football</a>
+<a href="#Players">Players</a>
 <h1>The greatest sport of all time.</h1>
   <p>(Also known as soccer) The best sport to ever exist</p>
 
