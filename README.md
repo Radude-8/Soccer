@@ -1,5 +1,6 @@
 # Football
 <body>
+<a href="about">About the creator</a>
 <h1>The greatest sport of all time.</h1>
   <p>(Also known as soccer) The best sport to ever exist</p>
 
@@ -11,9 +12,16 @@
 
 
 <h2>Players</h2>
-<p>There are many great players in this sport but the most well known, and the best are Cristiano Ronaldo and Lionel Messi. Cristiano Ronaldo has 853 career goals and 268 assists. He has won 5 Ballon d'ors and in all he has 34 senior trophies in his career. He also won the only two international trophies his national team, Portugal, have. <br><br> Lionel Messi has 819 career goals and 361 career assists. He has 7 Ballon d'ors and many other trophies, he just won the World Cup with Argentina.</p>
-
+<p>There are many great players in this sport but the most well known, and the best are Cristiano Ronaldo and Lionel Messi. Cristiano Ronaldo has 853 career goals and 268 assists. He has won 5 Ballon d'ors and in all he has 34 senior trophies in his career. He also won the only two international trophies his national team, Portugal, have. <br><br> Lionel Messi has 819 career goals and 361 career assists. He has 7 Ballon d'ors and many other trophies, he just won the World Cup with Argentina. People compare these two greats a lot, and they played on rival teams, Ronaldo for Real Madrid, and Messi for Barcelona. For a comparison
 <img src="https://s26162.pcdn.co/wp-content/uploads/2022/10/messi-CR.jpg"/>
+
+
+
+
+<h2>About the creator</h2>
+<p>Name: Rihan Patel <br><br>
+  Phone #: 888-888-8888 <br><br>
+  Email: Rihan_patel@hotmail.com</p>
 
 
 
