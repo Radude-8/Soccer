@@ -1,5 +1,5 @@
 # Football
-<body style="background-color:powderblue;><br>
+<body style="background-color:powderblue;>
 
 <a href="#History">History of Football</a><br>
 <a href="#Players">Players</a><br>
