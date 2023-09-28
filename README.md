@@ -1,6 +1,6 @@
 # Football
 <body>
-<a href="About the creator">#About</a>
+<a href="#About">About Me</a>
 <h1>The greatest sport of all time.</h1>
   <p>(Also known as soccer) The best sport to ever exist</p>
 
@@ -16,7 +16,7 @@
 <img src="https://s26162.pcdn.co/wp-content/uploads/2022/10/messi-CR.jpg"/>
 
 
-<section id="About the creator">
+<section id="About">
 <h2>About the creator</h2>
 <p>Name: Rihan Patel <br><br>
   Phone #: 888-888-8888 <br><br>
